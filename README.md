@@ -1,15 +1,42 @@
-## Hi there 👋
+# Hi there 👋
+<h1 align="center">Hi, I'm Rifat Hossain 👋</h1>
+<p align="center">
+  🌱 Web Developer | 💻 React & JavaScript Enthusiast | 🚀 Future Full-Stack Developer
+</p>
 
-**islamrifatislam/islamrifatislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
+- 🔭 Currently working on **React & Vite Projects**
+- 🌱 Learning **Node.js, Tailwind CSS, React**
+- 🎯 Goal: Become a Full-Stack Developer
+- 💬 Ask me about **JavaScript, React, Git, APIs**
+- 📫 Reach me: islamrifatislam@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-teal?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=islamrifatislam&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamrifatislam&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+- [Facebook](https://facebook.com/yourprofile)
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Portfolio](https://yourportfolio.com)
+
 
