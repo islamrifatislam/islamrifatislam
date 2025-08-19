@@ -42,9 +42,10 @@
   <a href="https://www.linkedin.com/in/rifat-hossain-b859b336b">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/yourprofile">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+<a href="https://www.facebook.com/yourprofile">
+  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
   <a href="https://yourportfolio.com">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
