@@ -32,6 +32,10 @@
 </p>
 
 ---
+### 🌟 My Projects
+
+---
+
 
 ### 🌐 Connect With Me
 <p>
